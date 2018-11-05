@@ -1,2 +1,5 @@
 # iridium-blue.github.io
-Serves client side of Iridium Blue
+This is the serverless part of the IridiumBlue single page progress web application.
+
+It is fronted by the CloudFlare content distribution network
+
