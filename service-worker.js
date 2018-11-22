@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.35b0d6e4bb230740eadbf26e3d1574fc.js"
+  "/precache-manifest.8ae16df6e0433ef1d324b9e2ff116ea0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuesppwa4"});
